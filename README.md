@@ -26,3 +26,5 @@ Windows 10 (there are minor issues with displaying characters).
 ## Overview
 ##### Gameplay
 ![Main menu](overview.gif "Gameplay")
+
+[Full video](https://youtu.be/DmdpqWK2y8M)
