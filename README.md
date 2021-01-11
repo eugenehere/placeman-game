@@ -23,37 +23,6 @@ Windows XP, 7.
 
 Windows 10 (there are minor issues with displaying characters).
 
-## Gameplay
-##### Main menu
-![Main menu](https://i.postimg.cc/7hvCCbfm/Screenshot-24.png "Main menu")
-
-##### Map
-![Map](https://i.postimg.cc/hjQzPVPX/Screenshot-23.png "Map")
-
-##### Buying products
-![Buying products](https://i.postimg.cc/25KLD0mp/Screenshot-22.png "Buying products")
-
-##### Player`s passport
-![Player's passport](https://i.postimg.cc/jdbwtwVj/Screenshot-26.png "Player's passport")
-
-##### Commands available
-![Commands](https://i.postimg.cc/8ch7LDvD/Screenshot-25.png "Commands")
-
-##### Cheatpanel
-![Cheatpanel](https://i.postimg.cc/FFcdMbBq/Screenshot-27.png "Cheatpanel")
-
-### Other screenshots
-###### Arrest:
-![other](https://i.postimg.cc/bw6sxmZG/Screenshot-28.png "other")
-
-###### Player`s baggage:
-![baggage](https://i.postimg.cc/s2qx819s/Screenshot-32.png "baggage")
-
-###### Bank menu:
-![bank menu](https://i.postimg.cc/pXJ9TWxJ/Screenshot-29.png "bank menu")
-
-###### Player`s home menu:
-![Home](https://i.postimg.cc/sgfMGkgd/Screenshot-30.png "Home")
-
-###### Shop menu:
-![Shop](https://i.postimg.cc/pdpyqKjs/Screenshot-31.png "Shop")
+## Overview
+##### Gameplay
+![Main menu](overview.gif "Gameplay")
